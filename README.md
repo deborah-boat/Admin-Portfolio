@@ -2,26 +2,17 @@
 A profile with front-end side which contain my personal information as follows.
 
 -Home
-
 -About
-
 -Skills/Education
-
 -Portfolio
-
 -Reviews from mentors
-
 
 And the backend side which contain the Admin Panel where user can
 
 -Create
-
 -Read
-
 -Update/Edit
-
 -Delete, using the contact form.
-
 
 
 ## Dependencies
@@ -29,7 +20,6 @@ And the backend side which contain the Admin Panel where user can
 - Ejs
 - Mysql2
 - Dotenv
-
 
 
 ### Database connection
