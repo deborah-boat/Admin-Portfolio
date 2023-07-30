@@ -5,7 +5,10 @@ And the backend side which contain the Admin Panel where user can create, read, 
 
 
 ## Dependencies
-  Express, Express-Handlebars, Mysql2, Nodemon
+- Express
+- Ejs
+- Mysql2
+- Dotenv
 
 
 
