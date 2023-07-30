@@ -1,18 +1,19 @@
 # Admin-Portfolio
-A profile with front-end side which contain my personal information as follows.
+A profile with two separate version front-end and back-end side which contain my personal information as follows.
 
+# Front-End
 -Home
 -About
 -Skills/Education
 -Portfolio
 -Reviews from mentors
 
-And the backend side which contain the Admin Panel where user can
 
+# Back-end side which contain the Admin Panel where user can
 -Create
 -Read
 -Update/Edit
--Delete, using the contact form.
+-Delete, using the CONTACT form.
 
 
 ## Dependencies
