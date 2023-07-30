@@ -1,6 +1,26 @@
 # Admin-Portfolio
-A profile with front-end side which contain my personal information, some of the project i have made,some of the reviews from my mentors and my contacts.
-And the backend side which contain the Admin Panel where user can create, read, update and delete users contact information .
+A profile with front-end side which contain my personal information as follows.
+
+-Home
+
+-About
+
+-Skills/Education
+
+-Portfolio
+
+-Reviews from mentors
+
+
+And the backend side which contain the Admin Panel where user can
+
+-Create
+
+-Read
+
+-Update/Edit
+
+-Delete, using the contact form.
 
 
 
