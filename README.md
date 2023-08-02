@@ -17,7 +17,7 @@ A profile with two separate version front-end and back-end side which contain my
 
 
 ## Dependencies
-- Express
+- Express-handlebars
 - Ejs
 - Mysql2
 - Dotenv
