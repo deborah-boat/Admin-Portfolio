@@ -15,12 +15,13 @@ A profile with two separate version front-end and back-end side which contain my
 - Create
 - Read
 - Update/Edit
-- Delete, using the CONTACT form.
+- Search
+- Delete.
 
 
 ## Dependencies
 - Express-handlebars
-- Ejs
+- Express
 - Mysql2
 - Dotenv
 
