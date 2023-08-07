@@ -48,3 +48,6 @@ To run this project, install it locally using npm:
 $ npm install
 $ npm start
 ```
+
+## Deployment
+https://velvety-clafoutis-2dab42.netlify.app/
